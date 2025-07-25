@@ -45,6 +45,16 @@
 			path = "Unit 103UITests";
 			sourceTree = "<group>";
 		};
+		039B15E92E2F0E8600412AB3 /* Practice */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = Practice;
+			sourceTree = "<group>";
+		};
+		039B15EB2E2F0EA900412AB3 /* Assignments */ = {
+			isa = PBXFileSystemSynchronizedRootGroup;
+			path = Assignments;
+			sourceTree = "<group>";
+		};
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -75,6 +85,8 @@
 		039B15B32E2F0E4300412AB3 = {
 			isa = PBXGroup;
 			children = (
+				039B15EB2E2F0EA900412AB3 /* Assignments */,
+				039B15E92E2F0E8600412AB3 /* Practice */,
 				039B15BE2E2F0E4300412AB3 /* Unit 103 */,
 				039B15CC2E2F0E4400412AB3 /* Unit 103Tests */,
 				039B15D62E2F0E4400412AB3 /* Unit 103UITests */,
@@ -109,6 +121,8 @@
 			);
 			fileSystemSynchronizedGroups = (
 				039B15BE2E2F0E4300412AB3 /* Unit 103 */,
+				039B15E92E2F0E8600412AB3 /* Practice */,
+				039B15EB2E2F0EA900412AB3 /* Assignments */,
 			);
 			name = "Unit 103";
 			packageProductDependencies = (
